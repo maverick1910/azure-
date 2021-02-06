@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'mainmlsa'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_880511ca422f42799f6088797280e862 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e8ecbd953bb6471e9f4b8291948d4298 }}
         package: .
